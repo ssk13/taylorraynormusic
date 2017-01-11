@@ -11,16 +11,12 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
+  "homepage": "http://taylorraynormusic.com",
   "authors": [
     {
-      "name": "Mark Otto",
-      "email": "markdotto@gmail.com"
+      "name": "Sarah Klein",
+      "email": "ssk13@ufl.edu"
     },
-    {
-      "name": "Jacob Thornton",
-      "email": "jacobthornton@gmail.com"
-    }
   ],
   "support": {
     "issues": "https://github.com/twbs/bootstrap/issues"
